@@ -2,33 +2,33 @@ import { Experience } from '@/types/experience';
 
 const experiences: Experience[] = [
   {
-    name: 'Web Development',
-    duration: '2022 - Present',
-    company: 'Acme Inc',
+    name: 'Front End / UI Design & Development',
+    duration: '2023 - Present',
+    company: 'Coding Solved',
     description:
-      'Building beautiful and functional websites using modern web technologies, focusing on performance, accessibility, and SEO-friendly design.'
+      "Building beautiful and functional applications using modern technologies, focusing on clients' specific needs"
   },
   {
-    name: 'UI/UX Design',
+    name: 'Web Administration / IT',
     duration: '2021 - 2022',
-    company: 'Creative Designs Ltd',
+    company: 'Peralta MKT',
     description:
-      'Creating delightful and intuitive user experiences, specializing in responsive design and user-centric methodologies.'
+      'Managing and maintaining websites, ensuring optimal performance, and implementing new features and updates'
   },
   {
-    name: 'Database Management',
+    name: 'Dental Software Assistant / Modeler',
     duration: '2020 - 2022',
-    company: 'DataTech Solutions',
+    company: 'Rodz',
     description:
-      'Storing and organizing data efficiently, ensuring data integrity, and optimizing database queries for high traffic applications.'
-  },
-  {
-    name: 'Mobile Development',
-    duration: '2019 - 2021',
-    company: 'Innovative Apps Inc',
-    description:
-      'Crafting engaging and scalable apps for smartphones and tablets, focusing on cross-platform development and native performance.'
+      'Assisting in the development of dental software, creating 3D models of odontological devices for dental procedures'
   }
+  // {
+  //   name: 'Mobile Development',
+  //   duration: '2019 - 2021',
+  //   company: 'Innovative Apps Inc',
+  //   description:
+  //     'Crafting engaging and scalable apps for smartphones and tablets, focusing on cross-platform development and native performance.'
+  // }
 ];
 
 export { experiences };

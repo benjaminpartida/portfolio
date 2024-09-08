@@ -33,17 +33,17 @@ function About() {
         <div className="space-y-4">
           <p className="mt-6 max-w-[700px] text-gray-500 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
             <RevealText>
-              I am a passionate and creative Web Developer with a love for
-              beautiful and functional websites. I have experience working with
-              a variety of web technologies and frameworks and I am always eager
-              to learn new things and take on new challenges.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+              elit nisl, euismod a nibh pretium, cursus tincidunt metus. Sed
+              finibus mi eget consectetur pellentesque. Nulla at neque eros. Sed
+              magna mi, gravida a ultrices ut, laoreet ac purus.
             </RevealText>
           </p>
-          <Button asChild>
+          {/* <Button asChild>
             <Link href="resume.pdf" target="_blank">
               View Resume <ArrowUpRightIcon className="ml-2 size-5" />
             </Link>
-          </Button>
+          </Button> */}
         </div>
       </div>
     </MotionWrap>

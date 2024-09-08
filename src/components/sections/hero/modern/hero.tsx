@@ -29,21 +29,13 @@ function Hero() {
           {/* items-center */}
           <div className="flex w-full items-center justify-center px-4 md:px-6">
             <h1 className="text-4xl font-light sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl">
-              <RevealText>A developer</RevealText>
+              {/* <RevealText>crafting your ideas</RevealText> */}
+              <RevealText>shaping your visions</RevealText>
               <br />
-              {/* className="whitespace-nowrap" */}
               <span className="flex items-center gap-2 md:gap-4">
-                <Reveal>Who</Reveal>
-                <motion.span className="relative mx-2 my-auto inline-block aspect-[1.5/1] h-[3.25rem] overflow-hidden rounded-full bg-[#f8cdd5] md:mx-4 md:h-[7.8rem]">
-                  <Image
-                    src={'/images/hearts-ornament.png'}
-                    style={{ objectFit: 'scale-down' }}
-                    alt="img"
-                    fill
-                  />
-                </motion.span>
-                <Reveal>to</Reveal>
-                <Reveal>code</Reveal>
+                <Reveal>dev +</Reveal>
+                <Reveal>design</Reveal>
+                {/* <Reveal>code</Reveal> */}
               </span>
             </h1>
           </div>
@@ -55,7 +47,7 @@ function Hero() {
         style={{ y, scale }}
       >
         <Image
-          src={'/images/hero.jpg'}
+          src={'/images/generativeart.jpg'}
           style={{ objectFit: 'cover' }}
           alt="img"
           fill

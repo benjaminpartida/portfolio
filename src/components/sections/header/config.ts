@@ -15,27 +15,27 @@ const links: Link[] = [
     href: '#about',
     thumbnail: 'about.jpg'
   },
-  {
-    title: 'Projects',
-    href: '#projects',
-    thumbnail: 'projects.jpg'
-  },
+  // {
+  //   title: 'Projects',
+  //   href: '#projects',
+  //   thumbnail: 'projects.jpg'
+  // },
   {
     title: 'Skills',
     href: '#skills',
     thumbnail: 'skills.jpg'
   },
-  {
-    title: 'Testimonials',
-    href: '#testimonials',
-    thumbnail: 'testimonials.jpg'
-  },
-  {
-    title: 'Blog',
-    href: 'https://blog.example.com',
-    thumbnail: 'blog.jpg',
-    target: '_blank'
-  },
+  // {
+  //   title: 'Testimonials',
+  //   href: '#testimonials',
+  //   thumbnail: 'testimonials.jpg'
+  // },
+  // {
+  //   title: 'Blog',
+  //   href: 'https://blog.example.com',
+  //   thumbnail: 'blog.jpg',
+  //   target: '_blank'
+  // },
   {
     title: 'Contact',
     href: '#contact',

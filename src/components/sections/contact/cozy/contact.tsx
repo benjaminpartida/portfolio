@@ -48,10 +48,10 @@ function Contact() {
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
             <RevealText>Contact Me</RevealText>
           </h2>
-          <p className="max-w-[600px] text-muted-foreground">
+          <p className="max-w-[600px] p-4 text-muted-foreground">
             <RevealText>
               Have a question or want to work together? Send me a message using
-              the form.
+              whatever works best for you.
             </RevealText>
           </p>
         </div>
@@ -89,11 +89,11 @@ function Contact() {
               </div>
             </div>
           </div>
-          <div className="flex w-full flex-col gap-4 py-3 lg:w-3/4 lg:pr-3">
+          {/* <div className="flex w-full flex-col gap-4 py-3 lg:w-3/4 lg:pr-3">
             <form action={formAction} className="grid gap-4">
               <ContactForm state={state} />
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
     </MotionWrap>

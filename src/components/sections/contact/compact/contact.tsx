@@ -50,7 +50,7 @@ function Contact() {
             </h2>
             <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               Have a question or want to work together? Send me a message using
-              the form.
+              whatever works best for you.
             </p>
             <p className="text-muted-foreground">
               Email:{' '}
@@ -75,7 +75,7 @@ function Contact() {
             </div>
           </div>
           <form action={formAction} className="grid gap-4">
-            <ContactForm state={state} />
+            {/* <ContactForm state={state} /> */}
           </form>
         </div>
       </div>

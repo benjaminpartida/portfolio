@@ -1,7 +1,8 @@
 import { Skill } from '@/types/skill';
 import {
   CodeIcon,
-  DatabaseIcon,
+  Computer,
+  Paintbrush,
   LayoutIcon,
   SmartphoneIcon
 } from 'lucide-react';
@@ -20,14 +21,14 @@ const skills: Skill[] = [
     description: `UI/UX Design focuses on creating delightful user experiences through visually appealing and highly functional designs. This skill includes a variety of technologies, frameworks, and best practices to enhance user satisfaction and usability.`
   },
   {
-    name: 'Database Management',
-    Icon: DatabaseIcon,
-    description: `Database Management involves efficiently storing and organizing data. This skill covers a range of technologies, frameworks, and best practices to ensure data integrity, security, and performance.`
+    name: 'Design & Illustration',
+    Icon: Paintbrush,
+    description: `Design involves expressing other people's ideas through various mediums such as traditional and digital art. It includes creating commissions, logos, web design, and more.`
   },
   {
-    name: 'Mobile Development',
-    Icon: SmartphoneIcon,
-    description: `Mobile Development entails crafting apps for smartphones and tablets that are both visually appealing and highly functional. It includes a variety of technologies, frameworks, and best practices to provide a seamless user experience on mobile devices.`
+    name: 'Front-End Development',
+    Icon: Computer,
+    description: `Front-End Development focuses on creating the user interface and experience of websites and web applications. This skill includes a variety of technologies, frameworks, and best practices to ensure a seamless user experience and efficient performance.`
   }
 ];
 

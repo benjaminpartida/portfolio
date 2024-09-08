@@ -2,13 +2,13 @@ import { Metadata } from '@/types/metadata';
 
 const metadata: Metadata = {
   author: {
-    name: 'John Doe',
-    username: 'johndoe',
+    name: 'Benjamin Partida',
+    username: 'benjaminpartida',
     label: 'Designer & Developer'
   },
   site: {
-    title: 'John Doe - Portfolio Website',
-    description: 'Portfolio of web & UI designer/developer John Doe.',
+    title: 'Benjamin Partida',
+    description: 'Portfolio of web & UI designer/developer .',
     url: 'https://www.example.com',
     keywords: [
       'web design',

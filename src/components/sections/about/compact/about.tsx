@@ -16,16 +16,16 @@ function About() {
             </h2>
             <div className="space-y-4">
               <p className="max-w-[700px] text-gray-500 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                He desarrollado aplicaciones con Flutter y tengo experiencia en
-                tecnologías web, combinando mi pasión por el diseño y el
-                desarrollo. Me interesa especialmente el punto donde ambos
-                convergen, creando soluciones personalizadas a partir de las
-                ideas de los clientes. Me adapto fácilmente a las necesidades
-                del proyecto y disfruto superar desafíos. Tengo mayor
-                experiencia con Flutter, React, HTML/CSS/JS, Python y C++, pero
-                soy flexible y siempre estoy dispuesto a aprender nuevas
-                tecnologías. Mi afinidad por las computadoras y el aprendizaje
-                constante me impulsa a mejorar y crecer profesionalmente.
+                I have worked in app development with Flutter and have
+                experience in web technologies, combining my passion for design
+                and development. I am especially interested in where both
+                converge, creating custom solutions based on clients ideas. I
+                easily adapt to the needs of the project and enjoy overcoming
+                challenges. I have more experience with Flutter, React,
+                HTML/CSS/JS, Python and C++, but I am flexible and always
+                willing to learn new technologies. My affinity for computers and
+                learning constantly drives me to improve and grow
+                professionally.
               </p>
               <Button asChild>
                 <Link href="resume.pdf" target="_blank">

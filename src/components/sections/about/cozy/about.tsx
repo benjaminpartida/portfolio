@@ -33,10 +33,16 @@ function About() {
         <div className="space-y-4">
           <p className="mt-6 max-w-[700px] text-gray-500 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
             <RevealText>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              elit nisl, euismod a nibh pretium, cursus tincidunt metus. Sed
-              finibus mi eget consectetur pellentesque. Nulla at neque eros. Sed
-              magna mi, gravida a ultrices ut, laoreet ac purus.
+              He desarrollado aplicaciones con Flutter y tengo experiencia en
+              tecnologías web, combinando mi pasión por el diseño y el
+              desarrollo. Me interesa especialmente el punto donde ambos
+              convergen, creando soluciones personalizadas a partir de las ideas
+              de los clientes. Me adapto fácilmente a las necesidades del
+              proyecto y disfruto superar desafíos. Tengo mayor experiencia con
+              Flutter, React, HTML/CSS/JS, Python y C++, pero soy flexible y
+              siempre estoy dispuesto a aprender nuevas tecnologías. Mi afinidad
+              por las computadoras y el aprendizaje constante me impulsa a
+              mejorar y crecer profesionalmente.
             </RevealText>
           </p>
           {/* <Button asChild>
